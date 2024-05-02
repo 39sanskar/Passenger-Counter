@@ -1,3 +1,3 @@
-39sanskar.netlify.app
+https://39sanskar.netlify.app
 
 This is a simple passenger counter app.
